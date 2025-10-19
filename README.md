@@ -18,8 +18,8 @@ Siga o passo a passo abaixo para rodar a API localmente:
 Abra seu terminal e digite:
 
 ```
-git clone https://github.com/sarahchristiee/api-studios-ghibli.git
-cd api-studios-ghibli
+git clone https://github.com/sarahchristiee/api-studios-ghibli-fastapi.git
+cd api-studios-ghibli-fastapi
 ```
 
 ### 2. Crie um ambiente virtual
