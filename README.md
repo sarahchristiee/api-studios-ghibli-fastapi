@@ -1,11 +1,11 @@
 # Estudo FastAPI - API de Filmes do Studio Ghibli
 
-Este projeto é um estudo sobre FastAPI em Python, onde desenvolvi uma API simples que retorna informações sobre alguns filmes do Studio Ghibli.
+Este projeto é um estudo sobre FastAPI em Python, onde desenvolvi uma API simples que retorna alguns filmes do Studio Ghibli.
 
 ## Funcionalidades
 
 - Listar filmes do Studio Ghibli
-- Consultar detalhes específicos de cada filme
+- Consultar filmes por id
 - Documentação automática da API via Swagger UI
 
 ---
