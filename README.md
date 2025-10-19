@@ -46,7 +46,8 @@ uvicorn main:app --reload
 
 ## 5. Acesse a documentação da API
 
-Acesse no navegador de preferÊncia
-
+Acesse no navegador de preferência
 [http://127.0.0.1:8000/docs]
+
+---
 
