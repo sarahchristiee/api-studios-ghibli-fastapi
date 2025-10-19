@@ -1,2 +1,52 @@
-# api-studios-ghibli
-estudo de fastapi
+# Estudo FastAPI - API de Filmes do Studio Ghibli
+
+Este projeto é um estudo sobre FastAPI em Python, onde desenvolvi uma API simples que retorna informações sobre alguns filmes do Studio Ghibli.
+
+## Funcionalidades
+
+- Listar filmes do Studio Ghibli
+- Consultar detalhes específicos de cada filme
+- Documentação automática da API via Swagger UI
+
+---
+
+## Tutorial: Como executar a API
+
+Siga o passo a passo abaixo para rodar a API localmente:
+
+### 1. Clone o repositório
+Abra seu terminal e digite:
+
+```
+git clone https://github.com/sarahchristiee/api-studios-ghibli.git
+cd api-studios-ghibli
+```
+
+### 2. Crie um ambiente virtual
+No terminal do cmd ou do ambiente em que estiver utilizando digite
+
+```
+python -m venv venv
+.\venv\Scripts\Activate
+```
+
+### 3. Instale as depeências
+para instalar as depeências e bibliotecas necessárias digite no terminal
+
+```
+pip install -r requirements.txt
+```
+
+## 4. Execute o servidor
+para executar o servidor digite no terminal
+
+```
+uvicorn main:app --reload
+```
+
+## 5. Acesse a documentação da API
+
+Acesse no navegador de preferÊncia
+
+[http://127.0.0.1:8000/docs]
+
