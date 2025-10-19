@@ -49,5 +49,3 @@ uvicorn main:app --reload
 Acesse no navegador de preferência
 [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
----
-
