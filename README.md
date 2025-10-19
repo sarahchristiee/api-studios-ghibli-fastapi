@@ -1,6 +1,6 @@
 # Estudo FastAPI - API de Filmes do Studio Ghibli
 
-Este projeto é um estudo sobre FastAPI em Python, onde desenvolvi uma API simples que retorna alguns filmes do Studio Ghibli.
+>Este projeto é um estudo sobre FastAPI em Python, onde desenvolvi uma API simples que retorna alguns filmes do Studio Ghibli.
 
 ## Funcionalidades
 
@@ -47,7 +47,7 @@ uvicorn main:app --reload
 ## 5. Acesse a documentação da API
 
 Acesse no navegador de preferência
-[http://127.0.0.1:8000/docs]
+[http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
 ---
 
